@@ -1,0 +1,1 @@
+resourse: https://www.kaggle.com/datasets/antoreepjana/animals-detection-images-dataset
